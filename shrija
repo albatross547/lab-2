@@ -1,1 +1,70 @@
+<html>
+    <head>
+        <title> Lab Assignment II</title>
 
+    </head>
+    <body>
+        <h2> Lists in HTML</h2>
+        <h3>Ordered List</h3>
+	<h4> Popular Languages</h4>
+<ol>
+  <li>English</li>
+  <li>Spanish</li>
+  <li>Mandarin</li>
+  <li>Hindi</li>
+  <li>French</li>
+</ol>
+
+<h3> Unordered list</h3>
+<ul style="list-style-type: square;">
+  <li>English</li>
+  <li>Spanish</li>
+  <li>Mandarin</li>
+</ul>
+
+<h1>Table in html</h1>
+<caption> Language Table <table>
+
+<table border="1">
+  
+  <tr>
+    <th>Language</th>
+    <th>Main Region</th>
+  </tr>
+  
+  
+  <tr>
+    <td>English</td>
+    <td>Europe / North America</td>
+  </tr>
+  <tr>
+    <td>Spanish</td>
+    <td>Europe / Latin America</td>
+  </tr>
+  <tr>
+    <td>Mandarin</td>
+    <td>Asia</td>
+  </tr>
+</table>
+
+<form>
+Full Name: <input type="text" value="username" placeholder="enter your full name"><br>
+Address: <input type="text" value= "address" placeholder="enter your address"><br>
+email: <input type="email" name="mail" Placeholder="email@gmail.com"><br>
+Message: <textarea></textarea> <br><br>
+password: <input type="password" placeholder="enter your password"><br>
+contact: <input type= "number"  name="contact" placeholder="Your contact number"><br>
+gender: 
+male<input type="radio" name="submit"><br>
+female <input type="radio" name="submit"> <br>
+other <input type="radio" name="submit". <br>
+ <input type="submit" value="Submit">
+</form>
+
+
+
+
+
+
+    </body>
+</html>
