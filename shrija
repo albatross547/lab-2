@@ -46,6 +46,7 @@
     <td>Asia</td>
   </tr>
 </table>
+<br> <hr>
 
 <form>
 Full Name: <input type="text" value= "" placeholder="enter your full name"><br>
