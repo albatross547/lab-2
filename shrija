@@ -48,16 +48,16 @@
 </table>
 
 <form>
-Full Name: <input type="text" value="username" placeholder="enter your full name"><br>
-Address: <input type="text" value= "address" placeholder="enter your address"><br>
-email: <input type="email" name="mail" Placeholder="email@gmail.com"><br>
-Message: <textarea></textarea> <br><br>
+Full Name: <input type="text" value= "" placeholder="enter your full name"><br>
+Address: <input type="text" value= "" placeholder="enter your address"><br>
+email: <input type="email" name="" Placeholder="email@gmail.com"><br>
+Message: <textarea></textarea> <br>
 password: <input type="password" placeholder="enter your password"><br>
-contact: <input type= "number"  name="contact" placeholder="Your contact number"><br>
+contact: <input type= "number"  name="" placeholder="Your contact number"><br>
 gender: 
 male<input type="radio" name="submit"><br>
 female <input type="radio" name="submit"> <br>
-other <input type="radio" name="submit". <br>
+other <input type="radio" name="submit"> <br>
  <input type="submit" value="Submit">
 </form>
 
